@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![php](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg)
+          
+
 <!--
 **ffperera/ffperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
