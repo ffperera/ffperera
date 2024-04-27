@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-![php](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg)
           
 
 <!--
