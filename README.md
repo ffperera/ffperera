@@ -28,7 +28,7 @@ Me gusta programar. He programado en muchos lenguajes: C/C++, Java, Python, Java
 
 ![tecnologías](images/software-technologies.png)
 
-Casi siempre he trabajado en equipos pequeños, desarrollando nosotros el proyecto para el cliente final o colaborando con otros equipos (consultoras en muchos casos o el propio equipo técnico del cliente final)
+Casi siempre he trabajado en equipos pequeños, siguiendo una idea de gestión ágil, tanto en el desarrollo de proyectos para el cliente final, como colaborando con otros equipos (consultoras en muchos casos o con el propio equipo técnico del cliente en otros)
 
 ## Software
 
