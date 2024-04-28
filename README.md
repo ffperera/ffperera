@@ -17,6 +17,9 @@ Nos dedicábamos sobre todo a desarrollo backend: automatización, paneles de ge
 
 En 2015 decidí centrarme en proyectos propios, relacionados con creación de contenidos, divulgación, SEO, etc. Una actividad que me permitía pasar más tiempo con mi familia y mis hijos pequeños.
 
+En este momento estoy abierto a propuestas y nuevas oportunidades profesionales. Puedes contactar conmigo a través de [mi perfil de linkedin](https://www.linkedin.com/in/felipefernandez/).
+
+
 ## Habilidades / skills
 
 Me encanta aprender cosas nuevas. Aprender, investigar, enfrentar un problema técnico hasta encontrar una solución, elaborar informes técnicos y especificaciones...
