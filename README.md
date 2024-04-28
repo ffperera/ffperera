@@ -22,13 +22,21 @@ En este momento estoy abierto a propuestas y nuevas oportunidades profesionales.
 
 ## Habilidades / skills
 
-Me encanta aprender cosas nuevas. Aprender, investigar, enfrentar un problema técnico hasta encontrar una solución, elaborar informes técnicos y especificaciones...
+Me encanta aprender cosas nuevas. 
 
-Me gusta programar. He programado en muchos lenguajes: C/C++, Java, Python, JavaScript... Una gran parte de las aplicaciones y desarrollos han sido en PHP, utilizando nuestros propios frameworks en algunos casos y frameworks como Symfony en otros.   
+Aprender, investigar, enfrentar un problema técnico hasta encontrar una solución.
+
+En muchos proyectos mi papel ha estado más centrado en la parte de análisis y planificación: elaborar informes técnicos y especificaciones a partir de las necesidades del cliente, planificación del proyecto, seguimiento...
+
+Pero también me gusta programar. 
+
+He programado en muchos lenguajes: C/C++, Java, Python, JavaScript... 
+
+Una gran parte de las aplicaciones y desarrollos han sido en PHP, utilizando nuestros propios frameworks en algunos casos, frameworks genéricos como Symfony en otros, o adaptándonos a la arquitectura del proyecto o del software utilizado en el mismo (*WordPress* y su ecosistema, *PrestaShop*, *Magento*, *Moodle*...)   
 
 ![tecnologías](images/software-technologies.png)
 
-Casi siempre he trabajado en equipos pequeños, siguiendo una idea de gestión ágil, tanto en el desarrollo de proyectos para el cliente final, como colaborando con otros equipos (consultoras en muchos casos o con el propio equipo técnico del cliente en otros)
+Casi siempre he trabajado con equipos pequeños, siguiendo una filosofía de gestión ágil, tanto en el desarrollo de proyectos para el cliente final, como colaborando con otros equipos (consultoras en muchos casos o con el propio equipo técnico del cliente en otros)
 
 ## Software
 
