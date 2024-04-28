@@ -7,6 +7,8 @@
 
 Mi nombre es *Felipe Fernández*. 
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefernandez/)
+
 Soy ingeniero de telecomunicaciones (ingeniería técnica en **Univ. Alcalá de Henares**, ingeniería superior telecomunicaciones en **Univ. Cantabria**), aunque prácticamente toda mi carrera profesional ha estado relacionada principalmente con el desarrollo de software.   
 
 En 1998 puse en marcha, junto con mi hermano, también teleco, una empresa de **consultoría IT y desarrollo de software**, orientada sobre todo a pequeña y mediana empresa. Para clientes finales y como socios tecnológicos para diferentes consultoras. 
