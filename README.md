@@ -36,7 +36,7 @@ Durante mi actividad en la empresa de desarrollo, creamos varias aplicaciones pr
 
 - **ALO**. Un sistema integral de gestión de alojamientos y reservas (para asociaciones de turismo, centrales de reservas online, etc.) que vendimos finalmente.
 - **cubo**. Un motor / framework para desarrollo rápido de aplicaciones web primando el rendimiento de la aplicación final.
-- **cubic**. Un gestor de contenidos multi-sitio / multi-idioma, anterior a la aparición de wordpress.
+- **cubic publisher**. Un gestor de contenidos multi-sitio / multi-idioma, anterior a la aparición de wordpress.
 - **integra-G**. Un sistema de gestión integral para empresas agroalimentarias que cubría todo el flujo, desde la entrada de materias primas, escandallo, trazabilidad, procesos de producción, almacenaje, empaquetado, venta, facturación... 
 
 
