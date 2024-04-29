@@ -26,26 +26,26 @@ Me encanta aprender cosas nuevas.
 
 Aprender, investigar, enfrentar un problema técnico hasta encontrar una solución.
 
-En muchos proyectos mi papel ha estado más centrado en la parte de análisis y planificación: elaborar informes técnicos y especificaciones a partir de las necesidades del cliente, planificación del proyecto, seguimiento...
+En muchos proyectos mi papel ha estado más centrado en la parte de análisis y planificación: elaborar informes técnicos, recomendaciones y especificaciones a partir de las necesidades del cliente, redacción de casos de uso / historias de usuario, planificación, seguimiento...
 
 Pero también me gusta programar. 
 
 He programado en muchos lenguajes: C/C++, Java, Python, JavaScript... 
 
-Una gran parte de las aplicaciones y desarrollos han sido en PHP, utilizando nuestros propios frameworks en algunos casos, frameworks genéricos como Symfony en otros, o adaptándonos a la arquitectura del proyecto o del software utilizado en el mismo (*WordPress* y su ecosistema, *PrestaShop*, *Magento*, *Moodle*...)   
+Una gran parte de las aplicaciones y desarrollos han sido en PHP, utilizando nuestros propios frameworks en algunos casos, frameworks genéricos como *Symfony* en otros, o adaptándonos a la arquitectura del proyecto o del software utilizado en el mismo (*WordPress* y su ecosistema, *PrestaShop*, *Magento*, *Moodle*...)   
 
 ![tecnologías](images/software-technologies.png)
 
-Casi siempre he trabajado con equipos pequeños, siguiendo una filosofía de gestión ágil, tanto en el desarrollo de proyectos para el cliente final, como colaborando con otros equipos (consultoras en muchos casos o con el propio equipo técnico del cliente en otros)
+Casi siempre he trabajado con equipos pequeños, siguiendo una filosofía de gestión ágil siempre que ha sido posible, tanto en el desarrollo de proyectos para el cliente final, como colaborando con otros equipos (consultoras en muchos casos o con el propio equipo técnico del cliente en otros)
 
-## Software
+## Creación de software
 
 Durante mi actividad en la empresa de desarrollo, creamos varias aplicaciones propias y motores (frameworks) que luego utilizábamos en diferentes proyectos, personalizando y adaptando para cada cliente y necesidad: 
 
-- **ALO**. Un sistema integral de gestión de alojamientos y reservas (para asociaciones de turismo, centrales de reservas online, etc.) que vendimos finalmente.
-- **cubo**. Un motor / framework para desarrollo rápido de aplicaciones web primando el rendimiento de la aplicación final.
-- **cubic publisher**. Un gestor de contenidos multi-sitio / multi-idioma, anterior a la aparición de wordpress.
-- **integra-G**. Un sistema de gestión integral para empresas agroalimentarias que cubría todo el flujo, desde la entrada de materias primas, escandallo, trazabilidad, procesos de producción, almacenaje, empaquetado, venta, facturación... 
+- **ALO**. Sistema integral de gestión de alojamientos y reservas (para asociaciones de turismo, centrales de reservas online, etc.) que vendimos finalmente.
+- **cubo**. Motor / framework para desarrollo rápido de aplicaciones web primando el rendimiento de la aplicación final.
+- **cubic publisher**. Gestor de contenidos multi-sitio / multi-idioma, anterior a la aparición de wordpress.
+- **integra-G**. Sistema de gestión integral para empresas agroalimentarias que cubría todo el flujo, desde la entrada de materias primas, escandallo, trazabilidad, procesos de producción, almacenaje, empaquetado, venta, facturación... 
 
 
           
