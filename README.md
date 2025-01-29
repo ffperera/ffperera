@@ -1,66 +1,67 @@
-![Felipe Fernández](images/felipe-fernandez-perera-profile-github.jpg)
+![Felipe Fernández](images/felipe-fernandez-perera-profile-github2.jpg)
 
 
 # Felipe Fernández Perera 
 
-¡Hola! 👋
+Hi! 👋
 
-Mi nombre es *Felipe Fernández*. 
+My name is *Felipe Fernández*. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefernandez/)
 
-Soy ingeniero de telecomunicaciones (ingeniería técnica en **Univ. Alcalá de Henares**, ingeniería superior telecomunicaciones en **Univ. Cantabria**), aunque prácticamente toda mi carrera profesional ha estado relacionada principalmente con el desarrollo de software.   
 
-En 1998 puse en marcha, junto con mi hermano, también teleco, una empresa de **consultoría IT y desarrollo de software**, orientada sobre todo a pequeña y mediana empresa. Para clientes finales y como socios tecnológicos para diferentes consultoras. 
+I am a telecom engineer (bachelor degree from University of Alcalá de Henares, master degree from University of Cantabria), although my entire professional career has been related to software development.
 
-Nos dedicábamos sobre todo a desarrollo backend: automatización, paneles de gestión / backoffice, integración de procesos, integración con APIs externas y APIs propias, desarrollo de plugins para aplicaciones comerciales...
+In 1998, together with my brother, also a telecom engineer, we started an IT consulting and software development company, primarily focused on small and medium-sized businesses. We worked for end clients and, as technology partners, for various consulting firms covering national (Spain) and international clients.
 
-En 2015 decidí centrarme en proyectos propios, relacionados con creación de contenidos, divulgación, SEO, etc. Una actividad que me permitía pasar más tiempo con mi familia y mis hijos pequeños.
+We mainly focused on backend development: automation, backoffices, business process integration, internal and external APIs integration, plugins for commercial applications (WordPress, PrestaShop)...
 
-En este momento estoy abierto a propuestas y nuevas oportunidades profesionales. Puedes contactar conmigo a través de [mi perfil de linkedin](https://www.linkedin.com/in/felipefernandez/).
+In 2015, I decided to focus on my own projects, mainly related to content creation and SEO. This was an activity that allowed me to spend more time with my kids.
+
+Now, I am open to proposals and new professional opportunities. You can contact me through [my LinkedIn profile](https://www.linkedin.com/in/felipefernandez/).
 
 
-## Habilidades / skills
+## Skills
 
-Me encanta aprender cosas nuevas. 
+I love learning.
 
-Aprender, investigar, enfrentar un problema técnico hasta encontrar una solución.
+Learning new things, researching, and tackling a technical problem until I find a solution.
 
-En muchos proyectos mi papel ha estado más centrado en la parte de análisis y planificación: elaborar informes técnicos, recomendaciones y especificaciones a partir de las necesidades del cliente, redacción de casos de uso / historias de usuario, planificación, seguimiento...
+In many projects my role has been more focused on analysis and planning: writing technical reports, recommendations, technical specifications based on the client's needs, project management...
 
-Pero también me gusta programar. 
+But I also enjoy programming.
 
-He programado en muchos lenguajes: C/C++, Java, Python, JavaScript... 
+I have programmed in many languages: C/C++, Java, PHP, Python, JavaScript, Rust...
 
-Una gran parte de las aplicaciones y desarrollos han sido en PHP, utilizando nuestros propios frameworks en algunos casos, frameworks genéricos como *Symfony* en otros, o adaptándonos a la arquitectura del proyecto o del software utilizado en el mismo (*WordPress* y su ecosistema, *PrestaShop*, *Magento*, *Moodle*...)   
 
 ![tecnologías](images/software-technologies.png)
 
-Casi siempre he trabajado con equipos pequeños, siguiendo una filosofía de gestión ágil siempre que ha sido posible, tanto en el desarrollo de proyectos para el cliente final, como colaborando con otros equipos (consultoras en muchos casos o con el propio equipo técnico del cliente en otros)
 
-## Creación de software
+Around 90% of the development projects I have been involved in were directly or indirectly related to PHP, mainly on the backend side.
 
-Durante mi actividad en la empresa de desarrollo, creamos varias aplicaciones propias y motores (frameworks) que luego utilizábamos en diferentes proyectos, personalizando y adaptando para cada cliente y necesidad: 
+I have experience dealing with legacy code inherited from client's applications. 
 
-- **ALO**. Sistema integral de gestión de alojamientos y reservas (para asociaciones de turismo, centrales de reservas online, etc.) que vendimos finalmente.
-- **cubo**. Motor / framework para desarrollo rápido de aplicaciones web primando el rendimiento de la aplicación final.
-- **cubic publisher**. Gestor de contenidos multi-sitio / multi-idioma, anterior a la aparición de wordpress.
-- **integra-G**. Sistema de gestión integral para empresas agroalimentarias que cubría todo el flujo, desde la entrada de materias primas, escandallo, trazabilidad, procesos de producción, almacenaje, empaquetado, venta, facturación... 
+We have used our own frameworks in some projects, as well as generic frameworks like [Symfony](https://symfony.com/).
+
+I enjoy writing, and I have several blogs on different topics, for example some of them related to photography and cameras (quecamarareflex.com, quecamaradefotos.com, aprendiendofotografia.com...)
+
+Over the past few years, I have worked extensively with WordPress. As an user and also as developer (plugins, themes, optimization).
+
+Currently, I have migrated most of those blogs to static-site generators like Astro and Hugo, looking for best performance and a better workflow.
 
 
-          
+## Project management
 
-<!--
-**ffperera/ffperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have worked with small teams, following an agile management philosophy whenever possible, both in developing projects for end clients and also collaborating with other teams (consulting firms in some cases or the client's own technical team in others).
 
-Here are some ideas to get you started:
+Some examples of dev projects I have led:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Management systems for accommodations and bookings.
+- Management systems for agri-food companies covering the entire process flow: raw material intake, costing, traceability, production processes, storage, packaging, sales, invoicing...
+- Integrations of payment gateways.
+- Integrations of suppliers and distributors APIs.
+- Multi-tenant backoffices / management panels for many web apps.
+- App optimization (SQL, caching strategies, algorithms...)
+
+
+
