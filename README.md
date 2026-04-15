@@ -5,63 +5,61 @@
 
 Hi! 👋
 
-My name is *Felipe Fernández*. 
+My name is *Felipe Fernández*.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipefernandez/)
 
 
-I am a telecom engineer (bachelor degree from University of Alcalá de Henares, master degree from University of Cantabria), although my entire professional career has been related to software development.
+I am a Telecom Engineer (Bachelor's degree from the University of Alcalá de Henares, Master's degree from the University of Cantabria), although my entire professional career has been dedicated to software development.
 
-In 1998, together with my brother, also a telecom engineer, we started an IT consulting and software development company, primarily focused on small and medium-sized businesses. We worked for end clients and, as technology partners, for various consulting firms covering national (Spain) and international clients.
+In 1998, together with my brother (also a Telecom Engineer), we founded an IT consulting and software development company, primarily focused on small and medium-sized businesses. We worked for end clients and, as technology partners, for various consulting firms, serving clients both nationally (Spain) and internationally.
 
-We mainly focused on backend development: automation, backoffices, business process integration, internal and external APIs integration, plugins for commercial applications (WordPress, PrestaShop)...
+Our main focus was on backend development: process automation, building backoffices, business process integration, integrating internal and external APIs, and developing plugins for commercial platforms like WordPress and PrestaShop.
 
-In 2015, I decided to focus on my own projects, mainly related to content creation and SEO. This was an activity that allowed me to spend more time with my kids.
+In 2015, I decided to pivot towards my own projects, mainly in content creation and SEO. This was an activity that allowed me to spend more time with my kids.
 
-Now, I am open to proposals and new professional opportunities. You can contact me through [my LinkedIn profile](https://www.linkedin.com/in/felipefernandez/).
-
-
-## Skills
-
-I love learning.
-
-Learning new things, researching, and tackling a technical problem until I find a solution.
-
-In many projects my role has been more focused on analysis and planning: writing technical reports, recommendations, technical specifications based on the client's needs, project management...
-
-But I also enjoy programming.
-
-I have programmed in many languages: C/C++, Java, PHP, Python, JavaScript, Rust...
+Now, I am open to proposals and new professional opportunities and collaborations. Feel free to reach out through my [LinkedIn profile](https://www.linkedin.com/in/felipefernandez/).
 
 
-![tecnologías](images/software-technologies.png)
+## Skills & Approach
+
+I love learning. I genuinely enjoy diving into new topics, researching, and tackling technical challenges until I find a solution.
+
+In many projects my role has leaned towards analysis and planning: writing technical reports, providing recommendations, drafting technical specifications based on client needs, and project management.
+
+But I also enjoy coding, with a strong focus on software architecture and system design.
+
+I have coded in many languages over the years: C/C++, Java, PHP, Rust, JavaScript, Python... and I'm always eager to add more to the list.
 
 
-Around 90% of the development projects I have been involved in were directly or indirectly related to PHP, mainly on the backend side.
-
-I have experience dealing with legacy code inherited from client's applications. 
-
-We have used our own frameworks in some projects, as well as generic frameworks like [Symfony](https://symfony.com/).
-
-I enjoy writing, and I have several blogs on different topics, for example some of them related to photography and cameras (quecamarareflex.com, quecamaradefotos.com, aprendiendofotografia.com...)
-
-Over the past few years, I have worked extensively with WordPress. As an user and also as developer (plugins, themes, optimization).
-
-Currently, I have migrated most of those blogs to static-site generators like Astro and Hugo, looking for best performance and a better workflow.
+![tech stack](images/software-technologies.png)
 
 
-## Project management
+I have worked on a wide range of projects, focusing primarily on backend development with technologies like PHP. My experience includes working with custom in-house frameworks as well as industry standards like Symfony. Additionally, I am experienced in managing and maintaining legacy code inherited from client applications.
 
-I have worked with small teams, following an agile management philosophy whenever possible, both in developing projects for end clients and also collaborating with other teams (consulting firms in some cases or the client's own technical team in others).
+Around 2020, I started working with **Rust** as the main language for some side projects, for example tools related to SEO and traffic data analysis. The experience has been fantastic and has even influenced how I approach coding in other languages.
 
-Some examples of dev projects I have led:
+I also enjoy writing about technology. My latest book is a beginner-to-intermediate guide in Spanish for this amazing language: [Rust para terrícolas](https://rustparaterricolas.com/).
+
+![Rust para terrícolas - book](images/rust-para-terricolas-libro.png)
+
+Writing it was a great way to deepen my own understanding and share that knowledge.
+
+Beyond tech, I run several blogs on different hobbies, like photography (quecamarareflex.com, quecamaradefotos.com, aprendiendofotografia.com...). Over the years, I've worked extensively with WordPress for these sites, not just as a user, but also developing custom plugins and themes and handling performance optimization. Recently, I've migrated most of them to static-site generators like Astro and Hugo for better performance and a more streamlined workflow.
+
+
+## Project management & Leadership
+
+I have extensive experience leading small, focused teams, following an agile management philosophy whenever possible. This has been key in delivering projects for end clients and when collaborating with other teams (whether consulting partners or the client's own technical staff).
+
+Some examples of development projects I have led:
 
 - Management systems for accommodations and bookings.
-- Management systems for agri-food companies covering the entire process flow: raw material intake, costing, traceability, production processes, storage, packaging, sales, invoicing...
-- Integrations of payment gateways.
-- Integrations of suppliers and distributors APIs.
-- Multi-tenant backoffices / management panels for many web apps.
-- App optimization (SQL, caching strategies, algorithms...)
+- Management systems for agri-food companies covering the entire process flow: raw material intake, costing, traceability, production, storage, packaging, sales and invoicing.
+- Integrations with payment gateways.
+- Connecting and synchronizing data via supplier and distributor APIs.
+- Building scalable, multi-tenant backoffices and management panels for many web apps.
+- Performance optimization deep-dives, including refactoring SQL queries, implementing caching strategies, and improving core algorithms.
 
 
 
